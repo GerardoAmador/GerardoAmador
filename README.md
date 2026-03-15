@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines-header.png" width="100%" alt="Banner Abstracto" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GerardoAmador&theme=github-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 # 👋 Hola, soy Gerardo Amador.
