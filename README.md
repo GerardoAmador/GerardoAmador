@@ -1,7 +1,5 @@
 # 👋 Hola, soy Gerardo Amador.
 ### Manual QA Engineer F4 | Frontend Developer
-> Profesional orientado a la calidad del software con experiencia en pruebas funcionales y desarrollo de interfaces de usuario. Mi enfoque combina la precisión del testing con la creatividad del desarrollo frontend, asegurando productos robustos, seguros y escalables.
-
 :white_check_mark: **Manual QA Engineer F4 / Tester**: Especialista en pruebas funcionales, asegurando que el producto final cumpla con los más altos estándares de calidad.
 :computer: **Frontend Dev**: Enfocado en transformar diseños en experiencias utilizando código limpio y optimizado.
 :shield: **Seguridad**: Comprometido con el uso de **JSON Web Tokens (JWT)** y autentificación segura en el desarrollo de apps.
