@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Gerardo%20Amador&fontSize=70&animation=fadeIn&fontAlignY=35&theme=dark" alt="Gerardo Amador Banner" />
+</p>
+
 # 👋 Hola, soy Gerardo Amador.
 ### Manual QA Engineer F4 | Frontend Developer
 :white_check_mark: **Manual QA Engineer F4 / Tester**: Especialista en pruebas funcionales, asegurando que el producto final cumpla con los más altos estándares de calidad.
@@ -26,4 +30,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GerardoAmador&theme=dark)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
