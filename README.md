@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GerardoAmador&theme=github-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoAmador&layout=compact&theme=dark&hide_border=true&langs_count=8" width="100%" />
 </p>
 
 # 👋 Hola, soy Gerardo Amador.
