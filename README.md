@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoAmador&layout=compact&theme=dark&hide_border=true&langs_count=8" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&fontSize=70&animation=fadeIn&fontAlignY=35&theme=dark" alt="Gerardo Amador Banner" />
 </p>
 
 # 👋 Hola, soy Gerardo Amador.
