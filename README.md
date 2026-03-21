@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner/BannerGerardo.png" alt="Gerardo Amador Banner" />
+  <img src="Banner/BannerGerardo.png" radius="10&locale=es&short" alt="Gerardo Amador Banner" />
 </p>
 
 # 👋 Hola, soy Gerardo Amador.
@@ -29,6 +29,6 @@
 
 ## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GerardoAmador&theme=jolly&border_radius=10&locale=es&short_numbers=true&mode=weekly&card_width=center&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GerardoAmador&theme=jolly&border_radius=10&locale=es&short_numbers=true&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
